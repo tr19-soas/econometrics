@@ -11,6 +11,6 @@ sudo bash python-fix.sh
 Sun the scripts from your Python compiler, if you're on Linux I recommend:
 
 ```
-sudo ptyhon3 week2.py
+sudo python3 week2.py
 ```
 For example. 
